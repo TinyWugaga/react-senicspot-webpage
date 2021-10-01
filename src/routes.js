@@ -17,7 +17,7 @@ export const routes = [
 
 export const redirects = [
     {
-        from: "/",
+        from: "",
         to: "/scenicspot"
     }
 ]

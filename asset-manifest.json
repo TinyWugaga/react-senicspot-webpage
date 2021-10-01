@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-senicspot-webpage/static/css/main.a158a356.chunk.css",
-    "main.js": "/react-senicspot-webpage/static/js/main.b6b7eaef.chunk.js",
-    "main.js.map": "/react-senicspot-webpage/static/js/main.b6b7eaef.chunk.js.map",
+    "main.js": "/react-senicspot-webpage/static/js/main.2ebcc868.chunk.js",
+    "main.js.map": "/react-senicspot-webpage/static/js/main.2ebcc868.chunk.js.map",
     "runtime-main.js": "/react-senicspot-webpage/static/js/runtime-main.b0c74ae9.js",
     "runtime-main.js.map": "/react-senicspot-webpage/static/js/runtime-main.b0c74ae9.js.map",
     "static/js/2.0bdd9b7c.chunk.js": "/react-senicspot-webpage/static/js/2.0bdd9b7c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.8560e17d.chunk.js": "/react-senicspot-webpage/static/js/3.8560e17d.chunk.js",
     "static/js/3.8560e17d.chunk.js.map": "/react-senicspot-webpage/static/js/3.8560e17d.chunk.js.map",
     "index.html": "/react-senicspot-webpage/index.html",
-    "precache-manifest.4075cd176836238b1b8ee5a4d6c6a61d.js": "/react-senicspot-webpage/precache-manifest.4075cd176836238b1b8ee5a4d6c6a61d.js",
+    "precache-manifest.5556612625c0ea74aa4817b7a8c79278.js": "/react-senicspot-webpage/precache-manifest.5556612625c0ea74aa4817b7a8c79278.js",
     "service-worker.js": "/react-senicspot-webpage/service-worker.js",
     "static/css/main.a158a356.chunk.css.map": "/react-senicspot-webpage/static/css/main.a158a356.chunk.css.map",
     "static/js/2.0bdd9b7c.chunk.js.LICENSE.txt": "/react-senicspot-webpage/static/js/2.0bdd9b7c.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b0c74ae9.js",
     "static/js/2.0bdd9b7c.chunk.js",
     "static/css/main.a158a356.chunk.css",
-    "static/js/main.b6b7eaef.chunk.js"
+    "static/js/main.2ebcc868.chunk.js"
   ]
 }

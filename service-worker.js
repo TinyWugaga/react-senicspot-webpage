@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-senicspot-webpage/precache-manifest.4075cd176836238b1b8ee5a4d6c6a61d.js"
+  "/react-senicspot-webpage/precache-manifest.5556612625c0ea74aa4817b7a8c79278.js"
 );
 
 self.addEventListener('message', (event) => {

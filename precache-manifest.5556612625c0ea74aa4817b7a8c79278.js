@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4112d0a3cc136a53ba5fd59a3cca8ac",
+    "revision": "c49f0f04712ef37bddb8c9d1d7503c3b",
     "url": "/react-senicspot-webpage/index.html"
   },
   {
-    "revision": "b303b6bba54065848d98",
+    "revision": "4ccda85839ede71145fe",
     "url": "/react-senicspot-webpage/static/css/main.a158a356.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-senicspot-webpage/static/js/3.8560e17d.chunk.js"
   },
   {
-    "revision": "b303b6bba54065848d98",
-    "url": "/react-senicspot-webpage/static/js/main.b6b7eaef.chunk.js"
+    "revision": "4ccda85839ede71145fe",
+    "url": "/react-senicspot-webpage/static/js/main.2ebcc868.chunk.js"
   },
   {
     "revision": "5f98537939a6d898a86a",

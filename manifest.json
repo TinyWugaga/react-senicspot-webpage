@@ -1,0 +1,25 @@
+{
+  "short_name": "Dcard Test",
+  "name": "Dcard Test - Scenic Spot Website Sample",
+  "icons": [
+    {
+      "src": "icon_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

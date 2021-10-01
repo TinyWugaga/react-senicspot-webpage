@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4e36e599674adc6139bd4904709644a",
+    "revision": "5050c0e7d1b64f7c18fc9a6b55c9064a",
     "url": "/react-senicspot-webpage/index.html"
   },
   {
-    "revision": "1e5d280b7399e596c181",
+    "revision": "cd0813adbd229467494d",
     "url": "/react-senicspot-webpage/static/css/main.a158a356.chunk.css"
   },
   {
-    "revision": "17117b5d23eace24da7c",
-    "url": "/react-senicspot-webpage/static/js/2.36556a99.chunk.js"
+    "revision": "de4821ca6c2990a062c5",
+    "url": "/react-senicspot-webpage/static/js/2.0bdd9b7c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-senicspot-webpage/static/js/2.36556a99.chunk.js.LICENSE.txt"
+    "url": "/react-senicspot-webpage/static/js/2.0bdd9b7c.chunk.js.LICENSE.txt"
   },
   {
     "revision": "63b9a9bdb968239a7708",
     "url": "/react-senicspot-webpage/static/js/3.8560e17d.chunk.js"
   },
   {
-    "revision": "1e5d280b7399e596c181",
-    "url": "/react-senicspot-webpage/static/js/main.dd897d66.chunk.js"
+    "revision": "cd0813adbd229467494d",
+    "url": "/react-senicspot-webpage/static/js/main.efa09ee7.chunk.js"
   },
   {
     "revision": "5f98537939a6d898a86a",
